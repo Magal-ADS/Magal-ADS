@@ -1,4 +1,4 @@
-## Olá, eu sou o João Miguel Fenerick ou Magal 👋
+## Hello World!, eu sou João Miguel Fenerick ou Magal 👋
 
 - 🔭 Hoje eu trabalho com IA Agents
 - 🌱 Estudando C#, JS, JSON e Python
