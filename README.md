@@ -3,8 +3,8 @@
 - 🔭 Hoje eu trabalho com IA Agents
 - 🌱 Estudando C#, JS, JSON, Python e PHP.
 - 💬 Fale comigo no email: jbarbosafenerick@gmail.com
-- 😄 19 anos
-- ⚡ 3° Semestre ADS - Fatec Taquaritinga
+- 😄 20 anos
+- ⚡ 4° Semestre ADS - Fatec Taquaritinga
 
 ###
 
