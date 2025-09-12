@@ -47,10 +47,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Magal-ADS/Magal-ADS/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
-
 ###
 
 <br clear="both">
