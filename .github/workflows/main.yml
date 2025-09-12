@@ -10,11 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Ação de checkout atualizada para a versão v3
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
+      # Ação da cobrinha atualizada para a versão v3
       - name: Generate Snake Animation
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
