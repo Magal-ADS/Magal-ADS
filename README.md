@@ -4,7 +4,7 @@
 - 🌱 Estudando C#, JS, JSON, Python e PHP
 - 💬 Fale comigo no email: jbarbosafenerick@gmail.com
 - 😄 20 anos
-- ⚡ 4° Semestre ADS - Fatec Taquaritinga
+- ⚡ 5° Semestre ADS - Fatec Taquaritinga
 
 ###
 
