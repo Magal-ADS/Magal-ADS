@@ -1,7 +1,7 @@
 ## Hello World!, eu sou João Miguel Fenerick ou Magal 👋
 
 - 🔭 Hoje eu trabalho com IA Agents, Aplicações Web e Automações
-- 🌱 Estudando C#, JS, JSON, Python e PHP
+- 🌱 Estudando C#, JS, Python e PHP
 - 💬 Fale comigo no email: jbarbosafenerick@gmail.com
 - 😄 20 anos
 - ⚡ 5° Semestre ADS - Fatec Taquaritinga
