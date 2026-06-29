@@ -1,17 +1,10 @@
 ## Hello World!, eu sou João Miguel Fenerick ou Magal 👋
 
 - 🔭 Hoje eu trabalho com Saas, IA Agents, Aplicações Web e Automações
-- 🌱 Trabalhando com: C#, JS, Python, PHP (Laravel e Vanilla), HTML, CSS
+- 🌱 Trabalhando com: C#, JS, Python, PHP (Laravel e Vanilla), HTML, CSS, Vue.js
 - 💬 Fale comigo no email: jbarbosafenerick@gmail.com
 - 😄 21 anos
 - ⚡ 7° Semestre ADS - Fatec Taquaritinga
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Magal-ADS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Magal-ADS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&count_private=true" height="150" alt="languages graph" />
-</div>
 
 ###
 
@@ -30,7 +23,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo" />
 </div>
 
 ###
